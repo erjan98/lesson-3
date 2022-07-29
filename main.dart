@@ -27,9 +27,7 @@ List s = ['post', 1, 0, 'flutter'];
 String myDart = 'Flutter';
 print(myDart.contains('Flutter'));
 
-print('object');
-
-List c = ['I', 'Started', 'gggg', 'Learn', 'Flutter', 'Since', 'April'];
+List c = ['I', 'Started', 'Learn', 'Flutter', 'Since', 'April'];
 String myFlutter = '';
 print(c.join('*'));
 
